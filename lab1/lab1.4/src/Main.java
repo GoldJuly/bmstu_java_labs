@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//
+// Числа, которые делятся на 5 и на 7.
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);

@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+//Построить матрицу, вычитая из элементов каждой строки матрицы ее среднее арифметическое.
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
